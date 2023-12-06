@@ -1,6 +1,8 @@
 package com.example.room_database.model
 
+import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import com.example.room_database.data.Siswa
 import com.example.room_database.repositori.RepositoriSiswa
